@@ -1,5 +1,5 @@
 {
-  "name": "@reach/tooltip",
+  "name": "@climax-media/reach-tooltip",
   "version": "0.2.0",
   "description": "Accessible tooltips",
   "main": "index.js",
