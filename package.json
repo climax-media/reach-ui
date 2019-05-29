@@ -1,5 +1,5 @@
 {
-  "name": "reach-ui",
+  "name": "@climax-media/reach-ui",
   "scripts": {
     "start": "start-storybook -p 9001 -c .storybook",
     "bootstrap": "lerna bootstrap --hoist",
