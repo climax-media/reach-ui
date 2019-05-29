@@ -1,3 +1,6 @@
+🚧🚧🚧 This is forked from [Ryan Florences's Reach UI](https://github.com/reach/reach-ui) due to issues in the library that affected I.E.11 within our consuming applications 🚧🚧🚧
+
+
 # Welcome to Reach UI Development ♿️
 
 Thanks for getting involved with Reach UI development!
@@ -109,30 +112,30 @@ The components to be built come from the the [Aria Practices Design Patterns and
 
 | Status | Name                 |
 | ------ | -------------------- |
-| 🛠      | Accordion            |
-| ✅     | Alert                |
-| ✅     | Alert Dialog         |
-| ❓     | Breadcrumb           |
-| ❓     | Button               |
-| 🛠      | Carousel             |
-| 🛠      | Checkbox             |
-| 🛠      | Combo Box            |
-| ✅     | Dialog (Modal)       |
-| 🛠      | Disclosure           |
-| ❓     | Feed                 |
-| ❓     | Grids                |
-| ❓     | Link                 |
-| 🛠      | Listbox              |
-| 🛠      | Menu or Menu bar     |
-| ✅     | Menu Button          |
-| 🛠      | Radio Group          |
-| 🛠      | Slider               |
-| 🛠      | Slider (Multi-Thumb) |
-| ❓     | Spinbutton           |
-| ❓     | Table                |
-| ✅     | Tabs                 |
-| ❓     | Toolbar              |
-| ✅     | Tooltip              |
-| 🛠      | Tree View            |
-| ❓     | Treegrid             |
-| ❓     | Window Splitter      |
+| 🛠     | Accordion            |
+| ✅      | Alert                |
+| ✅      | Alert Dialog         |
+| ❓      | Breadcrumb           |
+| ❓      | Button               |
+| 🛠     | Carousel             |
+| 🛠     | Checkbox             |
+| 🛠     | Combo Box            |
+| ✅      | Dialog (Modal)       |
+| 🛠     | Disclosure           |
+| ❓      | Feed                 |
+| ❓      | Grids                |
+| ❓      | Link                 |
+| 🛠     | Listbox              |
+| 🛠     | Menu or Menu bar     |
+| ✅      | Menu Button          |
+| 🛠     | Radio Group          |
+| 🛠     | Slider               |
+| 🛠     | Slider (Multi-Thumb) |
+| ❓      | Spinbutton           |
+| ❓      | Table                |
+| ✅      | Tabs                 |
+| ❓      | Toolbar              |
+| ✅      | Tooltip              |
+| 🛠     | Tree View            |
+| ❓      | Treegrid             |
+| ❓      | Window Splitter      |
